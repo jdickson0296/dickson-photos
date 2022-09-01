@@ -1,0 +1,3 @@
+[submodule "dickson-photos/themes/newsroom"]
+	path = dickson-photos/themes/newsroom
+	url = https://github.com/onweru/newsroom.git
