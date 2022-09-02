@@ -1,4 +1,4 @@
-baseURL = 'dickson-photos.pages.dev'
+baseURL = 'https://dicksonphotos.com/'
 languageCode = 'en-us'
 title = 'Dickson Photography'
 theme = "newsroom"
