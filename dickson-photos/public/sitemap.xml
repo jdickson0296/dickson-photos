@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+  <url>
+    <loc>https://dicksonphotos.com/bookings/</loc>
+    <lastmod>2020-08-10T20:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://dicksonphotos.com/bookings/booking/</loc>
+    <lastmod>2020-08-10T20:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://dicksonphotos.com/graduations/</loc>
+    <lastmod>2020-08-10T20:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://dicksonphotos.com/graduations/graduation_gallery/</loc>
+    <lastmod>2020-08-10T20:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://dicksonphotos.com/</loc>
+    <lastmod>2020-08-10T20:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://dicksonphotos.com/portraits/</loc>
+    <lastmod>2020-08-10T20:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://dicksonphotos.com/portraits/portrait_gallery/</loc>
+    <lastmod>2020-08-10T20:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://dicksonphotos.com/sports/</loc>
+    <lastmod>2020-08-10T20:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://dicksonphotos.com/sports/sports_gallery/</loc>
+    <lastmod>2020-08-10T20:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://dicksonphotos.com/about/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://dicksonphotos.com/categories/</loc>
+  </url><url>
+    <loc>https://dicksonphotos.com/tags/</loc>
+  </url>
 </urlset>
