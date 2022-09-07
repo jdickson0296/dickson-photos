@@ -1,0 +1,10 @@
+- item: Home
+  url: ""
+- item: Graduation Gallery
+  url: graduations/
+- item: Portait Gallery
+  url: portraits/
+- item: Sports Gallery
+  url: sports/
+- item: Bookings
+  url: bookings/
