@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graduation on Dickson Photography</title>
+    <title>Graduation Gallery on Dickson Photography</title>
     <link>https://dicksonphotos.com/graduations/</link>
-    <description>Recent content in Graduation on Dickson Photography</description>
+    <description>Recent content in Graduation Gallery on Dickson Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 20:39:13 +0200</lastBuildDate><atom:link href="https://dicksonphotos.com/graduations/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Graduation Gallery</title>
-      <link>https://dicksonphotos.com/graduations/graduation_gallery/</link>
-      <pubDate>Mon, 10 Aug 2020 20:39:13 +0200</pubDate>
+      <title>Baker Beach Photoshoot</title>
+      <link>https://dicksonphotos.com/graduations/baker_beach_jul_2022/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:13 +0200</pubDate>
       
-      <guid>https://dicksonphotos.com/graduations/graduation_gallery/</guid>
+      <guid>https://dicksonphotos.com/graduations/baker_beach_jul_2022/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>SJSU Photoshoot</title>
+      <link>https://dicksonphotos.com/graduations/sjsu_march_2022/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:13 +0200</pubDate>
+      
+      <guid>https://dicksonphotos.com/graduations/sjsu_march_2022/</guid>
       <description> </description>
     </item>
     

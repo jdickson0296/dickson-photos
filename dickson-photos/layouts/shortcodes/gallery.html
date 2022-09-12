@@ -8,4 +8,4 @@
     {{ $resized := .Fit "1280x1280 q100" }}
     <a href="{{ .Permalink }}" data-lightbox="x" data-title="{{ with .Exif }}{{ .Tags.ImageDescription }}{{ end }}"><img src="{{ $resized.Permalink }}" /></a>
     {{ end }}
-{{ end }}
+{{ end }} 

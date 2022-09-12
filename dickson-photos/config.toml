@@ -2,22 +2,8 @@ baseURL = 'https://dicksonphotos.com/'
 languageCode = 'en-us'
 title = 'Dickson Photography'
 theme = "newsroom"
-paginate = 6
+paginate = 5
 
-[social]
-    instagram = "https://www.instagram.com/_dicksonphotos/"
-    email = "jonathan.dickson96@gmail.com"
 
 [params]
     # disableDarkMode = true
-    socialInHeader = true
-    socialInFooter = false
-
-  [[params.social]]
-      icon      = "instagram" 
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/_dicksonphotos/"
-  [[params.social]]
-      icon      = "email" 
-      icon_pack = "fab"
-      url       = "jonathan.dickson96@gmail.com"
