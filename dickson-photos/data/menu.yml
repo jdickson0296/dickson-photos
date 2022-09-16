@@ -4,7 +4,9 @@
   url: graduations/
 - item: Portait Gallery
   url: portraits/
+- item: Street & Travel Gallery
+  url: travel/
 - item: Sports Gallery
   url: sports/
-- item: Bookings
-  url: bookings/
+- item: Booking
+  url: booking/

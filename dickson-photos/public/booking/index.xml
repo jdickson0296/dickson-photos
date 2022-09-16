@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Booking on Dickson Photography</title>
+    <link>https://dicksonphotos.com/booking/</link>
+    <description>Recent content in Booking on Dickson Photography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jun 2022 00:00:13 +0200</lastBuildDate><atom:link href="https://dicksonphotos.com/booking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Booking Details</title>
+      <link>https://dicksonphotos.com/booking/booking_info/</link>
+      <pubDate>Wed, 10 Aug 2022 20:39:13 +0200</pubDate>
+      
+      <guid>https://dicksonphotos.com/booking/booking_info/</guid>
+      <description> Contact Info Phone: 510-427-3397 Email: jonathan.dickson96@gmail.com </description>
+    </item>
+    
+  </channel>
+</rss>

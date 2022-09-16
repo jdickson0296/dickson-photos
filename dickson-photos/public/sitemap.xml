@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dicksonphotos.com/travel/oakland_street_sep_8_2022/</loc>
+    <lastmod>2022-09-08T00:00:13+02:00</lastmod>
+  </url><url>
+    <loc>https://dicksonphotos.com/booking/booking_info/</loc>
+    <lastmod>2022-08-10T20:39:13+02:00</lastmod>
+  </url><url>
     <loc>https://dicksonphotos.com/sports/hayward_adult_league_sep_5/</loc>
     <lastmod>2022-08-05T00:00:13+02:00</lastmod>
   </url><url>
@@ -11,7 +17,7 @@
     <loc>https://dicksonphotos.com/portraits/san_jose_japan_town_jun_2022/</loc>
     <lastmod>2022-06-08T00:00:13+02:00</lastmod>
   </url><url>
-    <loc>https://dicksonphotos.com/bookings/</loc>
+    <loc>https://dicksonphotos.com/booking/</loc>
     <lastmod>2022-06-05T00:00:13+02:00</lastmod>
   </url><url>
     <loc>https://dicksonphotos.com/portraits/sjsu_july_2022/</loc>
@@ -19,9 +25,6 @@
   </url><url>
     <loc>https://dicksonphotos.com/graduations/sjsu_march_2022/</loc>
     <lastmod>2022-03-21T00:00:13+02:00</lastmod>
-  </url><url>
-    <loc>https://dicksonphotos.com/bookings/booking/</loc>
-    <lastmod>2020-08-10T20:39:13+02:00</lastmod>
   </url><url>
     <loc>https://dicksonphotos.com/graduations/</loc>
     <lastmod>2020-08-10T20:39:13+02:00</lastmod>
@@ -33,6 +36,9 @@
     <lastmod>2020-08-10T20:39:13+02:00</lastmod>
   </url><url>
     <loc>https://dicksonphotos.com/sports/</loc>
+    <lastmod>2020-08-10T20:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://dicksonphotos.com/travel/</loc>
     <lastmod>2020-08-10T20:39:13+02:00</lastmod>
   </url><url>
     <loc>https://dicksonphotos.com/about/</loc>
