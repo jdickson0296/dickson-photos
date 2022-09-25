@@ -1,7 +1,7 @@
 baseURL = 'https://dicksonphotos.com/'
 languageCode = 'en-us'
 title = 'Dickson Photography'
-theme = "newsroom"
+theme = "newsroom-dicksonphotos"
 paginate = 5
 
 
