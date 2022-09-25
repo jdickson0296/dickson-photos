@@ -1,8 +1,7 @@
 ---
 title: "Booking Details"
 date: 2022-08-10T20:39:13+02:00
-image: "thumbnails/services.jpg"
-draft: true
+draft: false
 ---
 
 {{< gallery >}} 
