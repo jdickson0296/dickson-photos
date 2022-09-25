@@ -3,7 +3,11 @@ images:
     content_html: ""
   - image: images/home-gallery/h-2.jpg
     content_html: ""
-  - image: images/home-gallery/h-6.jpg
+  - image: images/home-gallery/h-3.jpg
     content_html: ""
-  - image: images/home-gallery/h-8.jpg
+  - image: images/home-gallery/h-4.jpg
+    content_html: ""
+  - image: images/home-gallery/h-5.jpg
+    content_html: ""
+  - image: images/home-gallery/h-6.jpg
     content_html: ""
