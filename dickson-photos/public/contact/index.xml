@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on Dickson Photography</title>
+    <link>https://dicksonphotos.com/contact/</link>
+    <description>Recent content in Contact on Dickson Photography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jun 2022 00:00:13 +0200</lastBuildDate><atom:link href="https://dicksonphotos.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>contact details</title>
+      <link>https://dicksonphotos.com/contact/contact_info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dicksonphotos.com/contact/contact_info/</guid>
+      <description>Phone: 510-427-3397 Email: jonathan.dickson96@gmail.com Instagram: @_dicksonphotos </description>
+    </item>
+    
+  </channel>
+</rss>

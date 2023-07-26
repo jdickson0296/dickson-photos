@@ -38,7 +38,7 @@
     <loc>https://dicksonphotos.com/portraits/san_jose_japan_town_jun_2022/</loc>
     <lastmod>2022-06-08T00:00:13+02:00</lastmod>
   </url><url>
-    <loc>https://dicksonphotos.com/booking/</loc>
+    <loc>https://dicksonphotos.com/contact/</loc>
     <lastmod>2022-06-05T00:00:13+02:00</lastmod>
   </url><url>
     <loc>https://dicksonphotos.com/portraits/sjsu_july_2022/</loc>
@@ -65,9 +65,9 @@
     <loc>https://dicksonphotos.com/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://dicksonphotos.com/booking/booking_info/</loc>
-  </url><url>
     <loc>https://dicksonphotos.com/categories/</loc>
+  </url><url>
+    <loc>https://dicksonphotos.com/contact/contact_info/</loc>
   </url><url>
     <loc>https://dicksonphotos.com/tags/</loc>
   </url>
