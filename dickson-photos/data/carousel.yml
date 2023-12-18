@@ -1,13 +1,15 @@
 images: 
-  - image: images/home-gallery/h-1.jpg
+  - image: images/home-gallery/h1.jpg
     content_html: ""
-  - image: images/home-gallery/h-2.jpg
+  - image: images/home-gallery/h2.jpg
     content_html: ""
-  - image: images/home-gallery/h-3.jpg
+  - image: images/home-gallery/h3.jpg
     content_html: ""
-  - image: images/home-gallery/h-4.jpg
+  - image: images/home-gallery/h4.jpg
     content_html: ""
-  - image: images/home-gallery/h-5.jpg
+  - image: images/home-gallery/h5.jpg
     content_html: ""
-  - image: images/home-gallery/h-6.jpg
+  - image: images/home-gallery/h6.jpg
+    content_html: ""
+  - image: images/home-gallery/h7.jpg
     content_html: ""
