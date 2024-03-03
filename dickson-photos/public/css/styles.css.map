@@ -1,20 +1,20 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/jonathan/repos/dickson-photos/dickson-photos",
+	"sourceRoot": "/Users/jonathan/Repos/dickson-photos/dickson-photos",
 	"sources": [
 		"themes/newsroom-dicksonphotos/assets/sass/main.sass",
-		"../../../repos/dickson-photos/dickson-photos/themes/newsroom-dicksonphotos/assets/sass/_variables.sass",
-		"../../../repos/dickson-photos/dickson-photos/themes/newsroom-dicksonphotos/assets/sass/_fonts.sass",
-		"../../../repos/dickson-photos/dickson-photos/themes/newsroom-dicksonphotos/assets/sass/_mixins.sass",
-		"../../../repos/dickson-photos/dickson-photos/themes/newsroom-dicksonphotos/assets/sass/_animate.sass",
-		"../../../repos/dickson-photos/dickson-photos/themes/newsroom-dicksonphotos/assets/sass/_base.sass",
-		"../../../repos/dickson-photos/dickson-photos/themes/newsroom-dicksonphotos/assets/sass/_components.sass",
-		"../../../repos/dickson-photos/dickson-photos/themes/newsroom-dicksonphotos/assets/sass/_nav.sass",
-		"../../../repos/dickson-photos/dickson-photos/themes/newsroom-dicksonphotos/assets/sass/_posts.sass",
-		"../../../repos/dickson-photos/dickson-photos/themes/newsroom-dicksonphotos/assets/sass/_utils.sass",
-		"../../../repos/dickson-photos/dickson-photos/themes/newsroom-dicksonphotos/assets/sass/_syntax.sass",
-		"../../../repos/dickson-photos/dickson-photos/themes/newsroom-dicksonphotos/assets/sass/_custom.sass"
+		"themes/newsroom-dicksonphotos/assets/sass/_variables.sass",
+		"themes/newsroom-dicksonphotos/assets/sass/_fonts.sass",
+		"themes/newsroom-dicksonphotos/assets/sass/_mixins.sass",
+		"themes/newsroom-dicksonphotos/assets/sass/_animate.sass",
+		"themes/newsroom-dicksonphotos/assets/sass/_base.sass",
+		"themes/newsroom-dicksonphotos/assets/sass/_components.sass",
+		"themes/newsroom-dicksonphotos/assets/sass/_nav.sass",
+		"themes/newsroom-dicksonphotos/assets/sass/_posts.sass",
+		"themes/newsroom-dicksonphotos/assets/sass/_utils.sass",
+		"themes/newsroom-dicksonphotos/assets/sass/_syntax.sass",
+		"themes/newsroom-dicksonphotos/assets/sass/_custom.sass"
 	],
 	"sourcesContent": [
 		"@import \"variables\";\n@import \"fonts\";\n@import \"mixins\";\n@import \"animate\";\n@import \"base\";\n@import \"components\";\n@import \"nav\";\n@import \"posts\";\n@import \"utils\";\n@import \"syntax\";\n@import \"custom\";\n",
