@@ -1,0 +1,24 @@
+<div class="archive wrap mt">
+  <h1 class="archive_title">{{ .Title }}</h1>
+  {{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "").ByPublishDate.Reverse }}
+  <div class="shoot-grid">
+  {{- range $paginator.Pages }}
+    {{ $images := .Resources.ByType "image" }}
+    {{ $cover := index $images 0 }}
+    <a class="shoot-card" href="{{ .RelPermalink }}">
+      <div class="shoot-card__thumb">
+        {{ if $cover }}
+          {{ $thumb := $cover.Fill "600x420 q85 webp top" }}
+          <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" loading="lazy" />
+        {{ end }}
+      </div>
+      <div class="shoot-card__meta">
+        {{- with .Date -}}
+        <time class="post_date">{{ dateFormat "January 2006" . }}</time>
+        {{- end -}}
+        <h3 class="shoot-card__title">{{ .Title }}</h3>
+      </div>
+    </a>
+  {{- end -}}
+  </div>
+</div>
