@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+{{- $params := .Site.Params }}
+<html lang="{{ .Lang }}" data-mode="dim" {{ if $params.disableDarkMode }}class="nodarkmode"{{ end }}>
+  {{ partial "head" . }}
+  <body>
+  <script>localStorage.removeItem('colorMode');</script>
+    {{ partialCached "nav" . }}
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ partialCached "footer" . }}
+    {{ partialCached "sprites" . }}
+  </body>
+</html>

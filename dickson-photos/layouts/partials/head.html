@@ -1,0 +1,23 @@
+{{ $home := absURL "" }}
+<head>
+  <title>{{ with .Title }}{{ humanize . }} | {{ end }}{{ .Site.Title }}</title>
+  <meta charset='utf-8'>
+  {{- with .Site.Params.ga_verify }}
+  <meta name="google-site-verification" content="{{ . }}" />
+  {{- end }}
+  <meta name="viewport" content ="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <div style="text-align:center">
+    <a href="{{ $home }}" class="nav-brand nav_item">
+      <img src="/images/logo.jpg"
+      style="object-fit:contain;
+               width:300px;
+               height:300px"/>
+    </a>
+  </div>
+  {{- partialCached "analytics" . }}
+  {{- partial "opengraph" . }}
+  {{- partialCached "favicon" . }}
+  {{- partialCached "styles" . }}
+  <link rel="stylesheet" href="/css/custom.css">
+</head>

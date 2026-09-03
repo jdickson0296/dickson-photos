@@ -1,0 +1,35 @@
+<footer class="footer wrap pale">
+  <div>
+    <ul>
+      <li> <a href="https://www.instagram.com/_dicksonphotos/"> <i class="fa fa-instagram"></i></a> </li>
+      <li> <a href="mailto:jonathan.dickson96@gmail.com?subject=Photography%20Inquiry"> <i  class="fa fa-google"></i></a> </li>
+    </ul>
+  </div>
+  <p>&copy;&nbsp;<span class="year"></span>&nbsp;{{ .Site.Title }}</p>
+  <p class="attribution upcase">{{ safeHTML (T "designed_by" .Site.Data.designer) }}</p>
+</footer>
+{{ $scriptPath := "js/index.js" }}
+{{ $scripts := resources.Get $scriptPath | resources.ExecuteAsTemplate $scriptPath . | resources.Minify | resources.Fingerprint "sha512" }}
+<script src="{{ $scripts.RelPermalink }}"></script>
+<script>
+// Replace carousel arrow handlers with reliable scrollBy navigation
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.carousel').forEach(function(carousel) {
+    var ul = carousel.querySelector('ul');
+    if (!ul) return;
+
+    function replaceArrow(selector, direction) {
+      var arrow = carousel.querySelector(selector);
+      if (!arrow) return;
+      var clone = arrow.cloneNode(true);
+      arrow.parentNode.replaceChild(clone, arrow);
+      clone.addEventListener('click', function() {
+        ul.scrollBy({ left: direction * ul.offsetWidth, behavior: 'smooth' });
+      });
+    }
+
+    replaceArrow('.next', 1);
+    replaceArrow('.prev', -1);
+  });
+});
+</script>
